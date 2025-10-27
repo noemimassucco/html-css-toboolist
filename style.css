@@ -9,7 +9,7 @@
 
 .articoli-iniziali {
     display: flex;
-    margin left:      
     gap: 20px;
-    margin-top: 40px;
+
+    margin-top: 50px;
 }
