@@ -31,4 +31,31 @@ color: rgb(9, 244, 76);
     border-radius: 20%;
     }
 
-.intestazioni-task
+.lista-task {
+    background-color: rgb(163, 224, 246);
+    font-size: large;
+    width: 70%;
+    margin: auto;
+   }
+.main-container {
+    width: 70%;
+    }
+
+.titoli-iniziali {
+    font-style: normal;
+
+     }
+.task-line { 
+    display:flex
+}
+
+.editorial { 
+    color: #ffffff;
+    font-weight: bold;
+    background-color: rgb(58, 166, 202);;
+    border-radius: 40%;
+    padding: 0px 20px;
+
+
+    }
+
