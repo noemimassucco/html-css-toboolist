@@ -47,6 +47,7 @@ color: rgb(9, 244, 76);
      }
 .task-line { 
     display:flex
+    
 }
 
 .editorial { 
@@ -55,7 +56,7 @@ color: rgb(9, 244, 76);
     background-color: rgb(58, 166, 202);;
     border-radius: 40%;
     padding: 0px 20px;
-
+    gap: 10px;
 
     }
 
